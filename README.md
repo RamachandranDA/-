@@ -25,7 +25,7 @@
 
 ✅ Combining Relevant Datasets for a better view.
 
-Our analysis has uncovered several insights:
+Insights:
 
 1. Mumbai generates the highest revenue among all other cities
 
