@@ -35,3 +35,6 @@ Our analysis has uncovered several insights:
 
 4. In June, Delhi had a high occupancy rate
 
+![py 4](https://github.com/RamachandranDA/PYTHON-PANDAS-/assets/140075853/386afea4-85d8-423d-9b7f-88218ff7d138)
+
+
